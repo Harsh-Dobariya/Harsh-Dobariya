@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by Harsh Dobariya - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22](https://readme-typing-svg.herokuapp.com?font=Fira&size=22&color=00CFFF&center=true&vCenter=true&width=440&height=45&lines=Full-Stack+web+developer;6+month+experience;Always+Learning+new+things" alt="Typing SVG"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00CFFF&center=true&vCenter=true&width=440&height=45&lines=MERN+Stack+Web+Developer;6+month+experience;Always+Learning+New+Things"></a>
 </p>
 
 <!-- Social icons section -->
