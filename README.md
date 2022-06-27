@@ -56,6 +56,7 @@
 <p>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+  <img alt="Mongoose.js" src="https://img.shields.io/badge/Mongoose.js-404d59.svg?logo=mongodb&logoColor=white">
 <!--   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> -->
 </p>
 
