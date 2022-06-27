@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by Harsh Dobariya - https://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00CFFF&center=true&vCenter=true&width=440&height=45&lines=MERN+Stack+Web+Developer;6+month+experience;Always+Learning+New+Things"></a>
+  <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00CFFF&center=true&vCenter=true&width=440&height=45&lines=Nodejs+Stack+Web+Developer;6+month+experience;Always+Learning+New+Things"></a>
 </p>
 
 <!-- Social icons section -->
@@ -56,7 +56,7 @@
 <p>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+<!--   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"> -->
 </p>
 
 <hr>
@@ -67,7 +67,7 @@
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
-    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+<!--     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"> -->
     <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-0D101E.svg?logo=Replit&logoColor=white">
 </p>
 
