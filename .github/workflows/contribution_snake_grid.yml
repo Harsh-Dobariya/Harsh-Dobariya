@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   # run automatically every 4 hours
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 0 * * *'
   
   # allows to run the job at any time manually
   workflow_dispatch:
