@@ -247,7 +247,15 @@
     </a>
 </p>
 
-<!-- Todo: Add Snake Grid -->
+<p align="center">
+    <a href="https://github.com/harsh-dobariya">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harsh-Dobariya/Harsh-Dobariya/contribution/contribution_snake_grid_darkBlue.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harsh-Dobariya/Harsh-Dobariya/contribution/contribution_snake_grid.svg">
+            <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harsh-Dobariya/Harsh-Dobariya/contribution/contribution_snake_grid_darkBlue.svg">
+        </picture>
+    </a>
+</p>
 
 <!-------------------------------- End of Quotes -------------------------------->
 
