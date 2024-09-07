@@ -152,7 +152,7 @@
 <p align="center">
     <a href="https://github.com/harsh-dobariya" target="_blank">
         <img src="https://streak-stats.demolab.com?user=harsh-dobariya&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D&card_width=1150" width="100%"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=harsh-dobariya&show_icons=true&theme=radical" height="197px"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=harsh-dobariya&show_icons=true&rank_icon=github&theme=radical" height="197px"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-dobariya&theme=radical&card_width=500" height="197px"/>
     </a>
 </p>
