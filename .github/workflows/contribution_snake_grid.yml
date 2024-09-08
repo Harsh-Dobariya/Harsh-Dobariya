@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 on:
-    # run automatically every 4 hours
+    # run automatically every day 00:00 UTC
     schedule:
         - cron: "0 0 * * *"
 
