@@ -30,9 +30,7 @@ jobs:
             - name: Commit & Push
               run: |
                   git config user.name "Harsh Dobariya"
-                  git config user.email ${{ secrets.MY_EMAIL }}
-                  git config user.signingkey ${{ secrets.SIGNING_KEY }}
-                  git config commit.gpgsign true
+                  git config user.email harshdobariya2206@gmail.com
                   git add -A .
                   git commit -m "Generate 3D Contribution Graph"
                   git push
