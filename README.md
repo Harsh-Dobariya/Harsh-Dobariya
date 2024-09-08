@@ -168,6 +168,8 @@
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-dobariya&theme=blueberry" width="31%" align="left"/>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh-dobariya&theme=blueberry&utcOffset=8" width="31%" align="center"/>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh-dobariya&theme=blueberry" width="31%" align="right"/>
+        <br><br>
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
    </a>
 </p>
 
@@ -178,8 +180,6 @@
 <p align="center">
     <a href="https://github.com/harsh-dobariya" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=harsh-dobariya&theme=matrix&no-frame=true&margin-w=10"/></a>
 </p>
-
-<!-- Todo: Add 3D Graph -->
 
 <!-------------------------------- End of Stats -------------------------------->
 
