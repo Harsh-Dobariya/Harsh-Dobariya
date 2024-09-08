@@ -54,10 +54,6 @@
 <a href="/" target="_blank">
     <img src="./assets/icons/svg/codechef.svg" title="CodeChef"/></a>
 <a href="/" target="_blank">
-    <img src="./assets/icons/svg/codeforces.svg" title="CodeForces"/></a>
-<a href="/" target="_blank">
-    <img src="./assets/icons/svg/hackerrank.svg" title="HackerRank"/></a>
-<a href="/" target="_blank">
     <img src="./assets/icons/svg/stopstalk.svg" title="StopStalk"/></a>
 
 <!-- Todo: Add NPM Package For Email -->
