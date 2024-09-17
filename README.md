@@ -54,9 +54,9 @@
 <a href="/" target="_blank">
     <img src="./assets/icons/svg/codechef.svg" title="CodeChef"/></a>
 <a href="/" target="_blank">
+    <img src="./assets/icons/svg/codeforces.svg" title="CodeForces"/></a>
+<a href="/" target="_blank">
     <img src="./assets/icons/svg/stopstalk.svg" title="StopStalk"/></a>
-
-<!-- Todo: Add NPM Package For Email -->
 
 <!-------------------------------- End of Contact -------------------------------->
 
@@ -120,8 +120,6 @@
     <img src="./assets/icons/svg/stackoverflow.svg"/>
     <img src="./assets/icons/svg/chatgpt.svg"/>
 </p>
-
-<!-- Todo: Give QR Code For Linkedin Profile Skills -->
 
 <!-------------------------------- End of Skills -------------------------------->
 
