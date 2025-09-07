@@ -1,0 +1,44 @@
+name: Generate 3D Contribution Graph
+
+on:
+    # run automatically on the 1st day of every month at 00:00 UTC
+    schedule:
+        - cron: "0 0 1 * *"
+
+    # allows to run the job at any time manually
+    workflow_dispatch:
+
+    # run on every push on the main branch
+    # push:
+    #  branches:
+    #   - main
+
+jobs:
+    build:
+        name: Generate 3D Contribution Graph
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+
+            - name: Generate 3D Contribution Graph
+              uses: yoshi389111/github-profile-3d-contrib@0.7.1
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                  USERNAME: ${{ github.repository_owner }}
+
+            - name: Commit & Push
+              run: |
+                  git config --local user.name "github-actions[bot]"
+                  git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                  git add .
+                  if git diff --staged --quiet; then
+                    echo "No changes to commit"
+                    exit 0
+                  fi
+                  git commit -m "Generate 3D Contribution Graph [skip ci]"
+                  git push
